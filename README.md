@@ -1,2 +1,1 @@
-# magdi
-alali
+Dedicated to a Ruby / RubyMotion project, and intended to organize what gets committed to Git.
